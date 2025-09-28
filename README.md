@@ -1,4 +1,4 @@
-## Markov Decision Processes
+## Markov Decision Process
 
 A Markov Decision Process (MDP) is a model for sequential decision making when outcomes are uncertain. 
 
